@@ -1,0 +1,127 @@
+[
+    {
+        "_id": "0282e0e58c404fbd15261f11c2ab6a",
+       "location": "Cox Bazar",
+        "place_id": 1,
+        "price": 40,
+        "rating": 5,
+        "guests" : 1,
+        "bedrooms": 1,
+        
+        "bath":1,
+        "title": "Book your dream stay at our luxury hotel",
+        "image_url": "https://images.unsplash.com/photo-1517840901100-8179e982acb7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+   
+    {
+        "_id": "0282e0e58a5c404fgsdffbd15261f11c2ab6a",
+       
+        "place_id": 1,
+        "location": "Cox Bazar",
+        "price": 50,
+        "rating": 4.5,
+        "guests" : 2,
+        "bedrooms": 2,
+        
+        "bath":1,
+        "title": "Secure your room today at our top-rated hotel",
+        "image_url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f1b6a",
+       
+        "place_id": 1,
+        "location": "Cox Bazar",
+        "price": 33,
+        "rating": 4.4,
+        "guests" : 1,
+        "bedrooms": 1,
+        "bath": 1,
+        "title": "Don't miss out on our exclusive hotel deals - book now!",
+        "image_url": "https://images.unsplash.com/photo-1496417263034-38ec4f0b665a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "_id": "0282e0e8a5c404fbd15261f12ab6a",
+       
+        "place_id": 2,
+        "location": "Sreemangal",
+        "rating": 4.9,
+        "price": 50,
+        "guests" : 3,
+        "bedrooms": 2,
+        "bath": 1,
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "image_url": "https://images.unsplash.com/photo-1679678690998-88c8711cbe5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    },
+    {
+        "_id": "0282fae0e58a5c404fbd15261f11c2a",
+       
+        "place_id": 2,
+        "location": "Sreemangal",
+        "rating": 4.1,
+        "price": 23,
+        "guests" : 2,
+        "bedrooms": 1,
+        "bath": 1,
+        "title": "Your perfect getaway starts with our hotel booking",
+        "image_url": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8aG90ZWx8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    },
+    {
+        "_id": "0282e0e58a5c404fa5261f11c2ab6a",
+       
+        "place_id": 2,
+        "location": "Sreemangal",
+        "price": 40,
+        "rating": 4.5,
+        "guests" : 2,
+        "bedrooms": 2,
+        "bath": 1,
+        "title": "Experience comfort and convenience with our hotel reservations",
+        "image_url": "https://images.unsplash.com/photo-1582719508461-905c673771fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15afasd61f11c2ab6a",
+       
+        "place_id": 3,
+        "location": "Shundarban",
+        "price": 60,
+        "rating": 4.5,
+        "guests" : 2,
+        "bedrooms": 2,
+        "bath": 2,
+        "title": "Apartment in Lost Panorama",
+        "image_url": "https://i.ibb.co/7kjbW4s/Rectangle-28.png",
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd152d11c2ab6a",
+       
+        "place_id": 3,
+        "location": "Shundarban",
+        "price": 48,
+        "rating": 4.2,
+        "guests" : 2,
+        "bedrooms": 1,
+        "bath": 1,
+        "title": "AR Lounge & Pool (r&r + b&b)",
+        "image_url": "https://i.ibb.co/pnN5rPR/Rectangle-27.png",
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    },
+    {
+        "_id": "0282e0e58a5c404fbd1ghd1c2ab6a",
+       
+        "place_id": 3,
+        "location": "Shundarban",
+        "price": 87,
+        "rating": 5,
+        "guests" : 4,
+        "bedrooms": 4,
+        "bath": 2,
+        "title": "Make your travel plans stress-free with our easy hotel booking",
+        "image_url": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    }
+]

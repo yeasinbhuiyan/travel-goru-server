@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "origin": "Dhaka",
+        "destination": "Cox Bazar",
+        "name": "Cox Bazar",
+        "image": "https://i.ibb.co/TgLJ7LL/Sajek.png",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur alias, doloremque suscipit veritatis quas eum quasi neque magnam autem quia illo, quo quis, culpa nemo doloribus. Tenetur harum, aspernatur ipsam velit magni ipsum nobis fugiat nesciunt nisi vero. Facilis porro numquam voluptatem nam explicabo eligendi similique placeat esse suscipit doloribus."
+    },
+    {
+        "id": 2,
+        "origin": "Chittogong",
+        "destination": "Sreemangal",
+        "name": "Sreemangal",
+        "image": "https://i.ibb.co/61XqMYh/Sreemongol.png",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur alias, doloremque suscipit veritatis quas eum quasi neque magnam autem quia illo, quo quis, culpa nemo doloribus. Tenetur harum, aspernatur ipsam velit magni ipsum nobis fugiat nesciunt nisi vero. Facilis porro numquam voluptatem nam explicabo eligendi similique placeat esse suscipit doloribus."
+
+
+
+    },
+    {
+        "id": 3,
+        "origin": "Feni",
+        "destination": "Shundarban",
+        "name": "Shundarban",
+        "image": " https://i.ibb.co/GP1dtSP/sundorbon.png",
+        "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur alias, doloremque suscipit veritatis quas eum quasi neque magnam autem quia illo, quo quis, culpa nemo doloribus. Tenetur harum, aspernatur ipsam velit magni ipsum nobis fugiat nesciunt nisi vero. Facilis porro numquam voluptatem nam explicabo eligendi similique placeat esse suscipit doloribus."
+
+
+    }
+   
+]
